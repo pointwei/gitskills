@@ -1,0 +1,4 @@
+# .o files
+*.o
+# dist files
+dist
